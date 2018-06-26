@@ -1,4 +1,4 @@
-# helm-kubernetes Docker hub image
+# docker-gcloud Docker hub image
 
 [![](https://images.microbadger.com/badges/image/imduffy15/docker-gcloud.svg)](https://microbadger.com/images/imduffy15/docker-gcloud "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/imduffy15/docker-gcloud.svg)](https://microbadger.com/images/imduffy15/docker-gcloud "Get your own version badge on microbadger.com")
