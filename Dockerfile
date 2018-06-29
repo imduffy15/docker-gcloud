@@ -1,4 +1,4 @@
-FROM docker
+FROM docker:18.05.0-ce-git
 
 ENV CLOUD_SDK_VERSION 203.0.0
 
