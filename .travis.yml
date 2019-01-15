@@ -3,7 +3,7 @@ env:
   global:
     - secure: ghh9HZ8BsJRu3dnQI1VuroSb4S2EtMrXdbfKT2spDavJAiTQnyP7fPYtmSASjFLI+RnNKA3SLueWCIL7VPcFbNol8gZrpp13kTBss8+5he1gupON3kCeLFmS36+QfOvWjoc/hd8kMUi3/6ciKMTq1cgBdrkdkscxPdzqO6h8XV7uTr03uNYzgo1R5P/c$
     - DOCKER_IMAGE=imduffy15/docker-gcloud
-    - DOCKER_TAG=0.0.2
+    - DOCKER_TAG=0.0.3
 services:
   - docker
 script:
